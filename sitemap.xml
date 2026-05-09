@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+  <!-- HOMEPAGE: corrected from /home to / -->
+  <url>
+    <loc>https://www.craine-digital.com/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2025-11-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/978fbaa7-ab60-47bc-b5c6-6b117bd8b4dd/Marketing+Foundation+Assessment.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/6519f061-0aea-470c-b770-f0c8228e6c78/Strategic+Marketing+Sprint.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/3a11ab69-fe19-4f57-b16d-8cbfd36333a1/Conversion+Rate+Optimization+and+Process+Improvement.png</image:loc>
+      <image:title>Home</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/b7f614cf-4794-4549-a86b-21f29a561093/Marketing+Impact.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/e1275b41-d532-47ae-a5ac-6a9b01fb6fe7/Professional+services+marketing+partner.png</image:loc>
+    </image:image>
+  </url>
+
+  <!-- CORE COMMERCIAL PAGES -->
+  <url>
+    <loc>https://www.craine-digital.com/services</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-01-14</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/34b888a6-3596-45f6-88f3-b6a623fcd57a/Marketing+Foundation+Assessment.png</image:loc>
+      <image:title>Services</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/fdc6ff21-1bf3-49c0-af6b-8e2c862eaeaf/Strategic+Marketing+Sprint.png</image:loc>
+      <image:title>Services</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/0a46a678-345c-4103-8a69-e74ab5f15d28/Conversion+Rate+Optimization+and+Process+Improvement.png</image:loc>
+      <image:title>Services</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.craine-digital.com/free-consultation</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <lastmod>2026-02-26</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/71f1a920-bd6d-42d4-8acc-53148ba80045/Marketing+Consultant+for+Small+Organizations.png</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.craine-digital.com/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-01-14</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/a7383e4f-d04d-458c-8e5b-d97809227096/Danielle+Sohn.jpeg</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.craine-digital.com/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2025-11-24</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/71f1a920-bd6d-42d4-8acc-53148ba80045/Marketing+Consultant+for+Small+Organizations.png</image:loc>
+    </image:image>
+  </url>
+
+  <!-- BLOG INDEX -->
+  <url>
+    <loc>https://www.craine-digital.com/marketing-musings</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <lastmod>2026-02-27</lastmod>
+  </url>
+
+  <!-- BLOG POSTS -->
+  <url>
+    <loc>https://www.craine-digital.com/marketing-musings/event-attendance-tips-that-actually-build-your-business</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2026-02-27</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.craine-digital.com/marketing-musings/online-marketing-for-law-firms</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2026-02-12</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.craine-digital.com/marketing-musings/why-prospects-dont-convert-to-clients</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2026-01-14</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.craine-digital.com/marketing-musings/7-marketing-fundamentals-that-actually-matter</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2026-01-14</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.craine-digital.com/marketing-musings/why-your-professional-services-firm-cant-rely-on-ai-for-marketing</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2026-01-14</lastmod>
+  </url>
+
+  <!-- PORTFOLIO / CASE STUDIES -->
+  <url>
+    <loc>https://www.craine-digital.com/portfolio</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <lastmod>2025-11-22</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/fd601193-7e43-4f9e-8953-74007c126f10/Oracle+HCM+transformation+microsite.png</image:loc>
+      <image:title>Portfolio</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/5db9a146-5f63-4bde-ad3b-2856dc7ca41e/Oracle+HCM+Chat-focused.png</image:loc>
+      <image:title>Portfolio</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/946ee9cc-de52-4455-8734-0be7adebaa0f/chargent+hero+combo.png</image:loc>
+      <image:title>Portfolio</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/8fbb40d8-bc7e-485a-804c-cb393889d732/Chargent+email+hero.png</image:loc>
+      <image:title>Portfolio</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/0d14a8d0-8f02-405e-9cf0-f9838cb0d150/banner+ad+2.jpeg</image:loc>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.craine-digital.com/autodesk-fusion-360-story</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-11-24</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/e63d5ec0-ccb4-4a59-999e-6cefb8f9c067/banner+ad.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/25a403e3-09cd-45b3-bcbe-0741c549ccb3/student+2d+and+3d.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/78a8d474-6e6c-436c-8127-459c52ab4acf/gen+design+image.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/f7b9f110-2c1b-4660-923b-3a5145bddbc1/VW+Bus.jpeg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/657f1a3a-8f36-4d39-bdab-571e3c1c47d2/teacher+at+podium.jpg.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/6902563fbe15450a49ba009b/8d8ca768-2bbc-4326-bd1f-e218503d8d58/insights.jpg</image:loc>
+    </image:image>
+  </url>
+
+  <!-- LEGAL PAGES: deprioritized -->
+  <url>
+    <loc>https://www.craine-digital.com/privacy-policy</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+    <lastmod>2025-11-22</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.craine-digital.com/cookie-policy</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+    <lastmod>2025-11-24</lastmod>
+  </url>
+
+</urlset>
