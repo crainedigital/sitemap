@@ -80,6 +80,14 @@
     </image:image>
   </url>
 
+
+        <url>
+  <loc>https://www.craine-digital.com/marketing-foundation-assessment</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.9</priority>
+  <lastmod>2026-05-18</lastmod>
+</url>
+        
   <!-- BLOG INDEX -->
   <url>
     <loc>https://www.craine-digital.com/marketing-musings</loc>
