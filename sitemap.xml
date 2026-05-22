@@ -93,7 +93,7 @@
     <loc>https://www.craine-digital.com/marketing-musings</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-    <lastmod>2026-02-27</lastmod>
+            <lastmod>2026-05-22</lastmod>
   </url>
 
   <!-- BLOG POSTS -->
@@ -131,6 +131,13 @@
     <priority>0.6</priority>
     <lastmod>2026-01-14</lastmod>
   </url>
+
+                <url>
+                                    <loc>https://www.craine-digital.com/marketing-musings/leveraging-ai-in-marketing-for-professional-services-firms-without-losing-client-trust</loc>
+                                    <changefreq>monthly</changefreq>
+                                    <priority>0.6</priority>
+                                    <lastmod>2026-05-22</lastmod>
+                </url>
 
   <!-- PORTFOLIO / CASE STUDIES -->
   <url>
